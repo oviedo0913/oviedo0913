@@ -17,7 +17,7 @@
 
 - [MBA - University of Illinois at Urbana-Champaign - The US](https://giesonline.illinois.edu/explore-programs/online-mba/curriculum)
 - [Diploma -Infraestucture Project Management Specialist - Universidad del Rosario - Colombia](https://urosario.edu.co/especializacion-en-gerencia-de-proyectos-de-construccion-e-infraestructura)
-- [Bachelor - Civil Engineer - Universidad Javeriana - Colombia](https://www.javeriana.edu.co/carrera-ingenieria-civil?utm_source=Digital&utm_subsource=pauta&utm_medium=google&utm_campaign=ICIVL&gad_source=1&gad_campaignid=22243184849&gbraid=0AAAAABr532iuOMSLAVO5f7ufp_a3m7f4y&gclid=CjwKCAjw1dLDBhBoEiwAQNRiQb-N2sdW_H6Y_uxnmR9En_bWr2aSBTZK9XAgS4To02fwC4eb-r_dUhoCgesQAvD_BwE#plan-estudios)
+- [Bachelor's degree - Civil Engineer - Universidad Javeriana - Colombia](https://www.javeriana.edu.co/carrera-ingenieria-civil?utm_source=Digital&utm_subsource=pauta&utm_medium=google&utm_campaign=ICIVL&gad_source=1&gad_campaignid=22243184849&gbraid=0AAAAABr532iuOMSLAVO5f7ufp_a3m7f4y&gclid=CjwKCAjw1dLDBhBoEiwAQNRiQb-N2sdW_H6Y_uxnmR9En_bWr2aSBTZK9XAgS4To02fwC4eb-r_dUhoCgesQAvD_BwE#plan-estudios)
 
 <h2> 🤳 Connect with me:</h2>
 
