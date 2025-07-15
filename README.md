@@ -10,9 +10,9 @@
   - [Google Advanced Data Analytics Certificate](https://www.credly.com/badges/dffb0f1d-55d3-4eee-be73-c9c21c3011c9/linked_in_profile)
   - [Project Management Professional PMP](https://www.credly.com/badges/a2549d5b-023e-4c1f-8389-4ccd02fe4ab9/linked_in_profile)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🎓 Formal Studies</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- MBA - University of Illinois at Urbana-Champaing - The US
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
