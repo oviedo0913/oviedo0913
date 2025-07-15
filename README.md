@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
-  - [Waze - Churn rate user predictor](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Waze - Churn rate user predictor](README.md)
 
 </h2>
 
