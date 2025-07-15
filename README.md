@@ -13,10 +13,8 @@
 <h2>🎓 Formal Studies</h2>
 
 - MBA - University of Illinois at Urbana-Champaing - The US
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Diploma -Infraestucture Project Management Specialist - Universidad del Rosario - Colombia
+- Bachelor -Civil Engieer - Universidad Javeriana - Colombia
 
 <h2> 🤳 Connect with me:</h2>
 
