@@ -12,9 +12,9 @@
 
 <h2>🎓 Formal Studies</h2>
 
-- MBA - University of Illinois at Urbana-Champaing - The US
-- Diploma -Infraestucture Project Management Specialist - Universidad del Rosario - Colombia
-- Bachelor -Civil Engieer - Universidad Javeriana - Colombia
+- [MBA - University of Illinois at Urbana-Champaing - The US] (https://giesonline.illinois.edu/explore-programs/online-mba/curriculum)
+- [Diploma -Infraestucture Project Management Specialist - Universidad del Rosario - Colombia ] (https://giesonline.illinois.edu/explore-programs/online-mba/curriculum)
+- [Bachelor - Civil Engineer - Universidad Javeriana - Colombia] (https://giesonline.illinois.edu/explore-programs/online-mba/curriculum)
 
 <h2> 🤳 Connect with me:</h2>
 
