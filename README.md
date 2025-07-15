@@ -4,14 +4,14 @@
 
   - [Waze - Churn rate user predictor](README.md)
 
-< br / >
+<br />
 
 <h2>☑️ Certifications </h2>
 
   - [Google Advanced Data Analytics Certificate](https://www.credly.com/badges/dffb0f1d-55d3-4eee-be73-c9c21c3011c9/linked_in_profile)
   - [Project Management Professional PMP](https://www.credly.com/badges/a2549d5b-023e-4c1f-8389-4ccd02fe4ab9/linked_in_profile)
 
-< br / >
+<br />
 
 <h2>🎓 Formal Studies</h2>
 
